@@ -9,8 +9,6 @@ My Cat Yugo is a fun and adorable project showcasing pictures and stories of my 
 ## Features
 
 - A collection of Yugo's most adorable pictures.
-- Engaging stories and anecdotes about Yugo's daily life.
-- A platform for cat lovers to connect and share their own cat stories and images.
 
 ## Table of Contents
 
